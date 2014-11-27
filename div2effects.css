@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+	$(document).ready(function(){
+  		$("#gensec") .click (function(){
+    	            $("#sportssec").hide();
+					$("#messsec").hide();
+  		});
+	});

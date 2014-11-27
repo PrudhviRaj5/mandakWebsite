@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+
+	
+	#gensec{width:375px;
+			height:30px;
+			position:absolute;
+			background-color:#99999;
+			box-shadow: 3px 3px 5px #303030;
+			top:0px;
+			left:0px;
+			border-radius:0.3em;
+			opacity:1;
+			margin:10px;
+			padding:5px;
+			cursor:pointer;}
+	#sportssec{width:375px;
+			height:30px;
+			position:absolute;
+			background-color:#99999;
+			box-shadow: 3px 3px 5px #303030;
+			top:50px;
+			left:0px;
+			border-radius:0.3em;
+			opacity:1;
+			margin:10px;
+			padding:5px;
+			cursor:pointer;}
+	#aluminisec{width:375px;
+			height:30px;
+			position:absolute;
+			background-color:#99999;
+			box-shadow: 3px 3px 5px #303030;
+			top:100px;
+			left:0px;
+			border-radius:0.3em;
+			opacity:1;
+			margin:10px;
+			padding:5px;
+			cursor:pointer;}
+	#messsec{width:375px;
+			height:30px;
+			position:absolute;
+			background-color:#99999;
+			box-shadow: 3px 3px 5px #303030;
+			top:150px;
+			left:0px;
+			border-radius:0.3em;
+			opacity:1;
+			margin:10px;
+			padding:5px;
+			cursor:pointer;}
+	#litsec{width:375px;
+			height:30px;
+			position:absolute;
+			background-color:#99999;
+			box-shadow: 3px 3px 5px #303030;
+			top:200px;
+			left:0px;
+			border-radius:0.3em;
+			opacity:1;
+			margin:10px;
+			padding:5px;
+			cursor:pointer;}
+	#socsec{width:375px;
+			height:30px;
+			position:absolute;
+			background-color:#99999;
+			box-shadow: 3px 3px 5px #303030;
+			top:250px;
+			left:0px;
+			border-radius:0.3em;
+			opacity:1;
+			margin:10px;
+			padding:5px;
+			cursor:pointer;}
+	#techsec{width:375px;
+			height:30px;
+			position:absolute;
+			background-color:#99999;
+			box-shadow: 3px 3px 5px #303030;
+			top:300px;
+			left:0px;
+			border-radius:0.3em;
+			opacity:1;
+			margin:10px;
+			padding:5px;
+			cursor:pointer;}
+	#gardensec{width:375px;
+			height:30px;
+			position:absolute;
+			background-color:#99999;
+			box-shadow: 3px 3px 5px #303030;
+			top:350px;
+			left:0px;
+			border-radius:0.3em;
+			opacity:1;
+			margin:10px;
+			padding:5px;
+			cursor:pointer;}
+	#contactusdetails{width:380px;
+			height:340px;
+			position:absolute;
+			box-shadow: 3px 3px 5px #303030;
+			top:0px;
+			left:420px;
+			border-radius:0.3em;
+			background-color:#99999;
+			margin:10px;
+			padding:20px;
+			display:none; }
+	#getback{width:60px;
+			height:27px;
+			position:absolute;
+			box-shadow: 3px 3px 5px #303030;
+			top:400px;
+			left:770px;
+			border-radius:0.2em;
+			background-color:#CCCCCC;
+			padding:10px;
+			display:none;
+			cursor:pointer;}
+	#contactusframe{width:860px;
+					 height:460px;
+					 top:0px;
+					 left:60px;
+					 position:relative;}

@@ -1,0 +1,223 @@
+@charset "utf-8";
+/* CSS Document */
+
+	#header{
+			
+			
+		}
+	#dock1{
+			width:50px;
+			overflow:hidden;
+			height:50px;
+			position:relative;
+			border-radius:0.8em;
+
+			margin-bottom:5px;
+			}
+	#dock2{
+			width:50px;
+			height:50px;
+			position:relative;
+			overflow:hidden;
+			border-radius:0.8em;
+			margin-bottom:5px;
+			}
+	#dock3{
+			width:50px;
+			height:50px;
+			overflow:hidden;
+			position:relative;
+			border-radius:0.8em;
+			margin-bottom:5px;
+			}
+	#dock4{
+			width:50px;
+			height:50px;
+			overflow:hidden;
+			position:relative;;
+			border-radius:0.8em;
+			margin-bottom:5px;
+			}
+	#dock5{
+			width:50px;
+			height:50px;
+			overflow:hidden;
+			position:relative;
+			border-radius:0.8em;
+			align:right;
+                        
+			margin-bottom:5px;
+			}
+	#docks{
+			width:25%;
+			height:400px;
+			position:absolute;
+            left:75%;
+			top:36%;
+                        
+		}
+	#details{
+			width:150px:
+			height:400px;
+			position:absolute;
+			top:100px;
+			left:940px;
+			
+	
+		}
+	#comment{
+	font:"bankGothic Md BT";
+	}
+	#logos{
+			height:50px;
+			width:450px;
+			position:absolute;
+			left:65%;
+			top:30px;
+
+			
+				
+			
+		}
+	#mandakini{
+			color:#CCCCCC;
+			position:absolute;
+			left:20%;
+			font-family:"bankGothic Md BT";
+			font-size:16px
+			width:500px;
+                        top:30px;
+		}
+	#home{
+			width:210px;
+			height:210px;
+			position:absolute;
+			box-shadow: 3px 3px 5px #303030;
+			background-image:url(images/home.png);
+			top:0px;
+			left:0px;
+			opacity:1;
+			margin:10px;
+			border-radius:0.4em;
+		}
+	#gallery{
+			width:380px;
+			height:280px;
+			box-shadow: 3px 3px 5px #303030;
+			position:absolute;
+			background-color:#999999;
+			background-image:url(images/gallery.png);
+			top:0px;
+			left:220px;
+			opacity:1;
+			margin:10px;
+			color:#000000;
+			border-radius:0.4em;
+		}
+	#techsoc{
+			width:230px;
+			height:130px;
+			box-shadow: 3px 3px 5px #303030;
+			position:absolute;
+			background-color:#999999;
+			background-image:url(images/tech.png);
+			top:0px;
+			left:610px;
+			opacity:1;
+			margin:10px;
+			color:#000000;	
+			border-radius:0.4em;
+			background-position:top right;		
+		}
+	#literary{
+			width:230px;
+			height:140px;
+			position:absolute;
+			background-color:#999999;
+			box-shadow: 3px 3px 5px #303030;
+			background-image:url(images/literary.png);
+			top:140px;
+			left:610px;
+			opacity:1;
+			margin:10px;
+			color:#000000;	
+			border-radius:0.4em;	
+		}
+	#schroeter{
+			width:280px;
+			height:150px;
+			position:absolute;	
+			overflow:hidden;
+			box-shadow: 3px 3px 5px #303030;
+			background-image:url(images/sports.png);		
+			top:290px;
+			left:560px;
+			opacity:1;
+			margin:10px;
+			color:#000000;
+			border-radius:0.4em;
+			background-position:top right;
+		}
+	#alumni{
+			width:330px;
+			height:150px;
+			position:absolute;
+			background-color:#999999;
+			box-shadow: 3px 3px 5px #303030;
+			background-image:url(images/alumni.png);
+			top:290px;
+			left:220px;
+			opacity:1;
+			margin:10px;
+			color:#000000;
+			border-radius:0.4em;		
+		}
+	#hostel{
+			width:210px;
+			height:220px;
+			position:absolute;
+			box-shadow: 3px 3px 5px #303030;
+			background-image:url(images/hostel%20l.png);
+			top:220px;
+			left:0px;
+			opacity:1;
+			margin:10px;
+			border-radius:0.4em;			
+		}
+	
+	#frame{
+			width:860px;
+			height: 460px;
+			position:absolute;
+			left:20px;
+			
+			}
+	#about{
+			width:1060px;
+			height: 460px;
+			position:absolute;
+			left:60px;
+			top:0px;
+			display:none;
+			opacity:0;
+			}
+	#aboutback{
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:36px;
+			background-color:#CCCCCC;
+			border-radius:0.2em;
+			cellpadding:2px;
+			height:50px;
+			width:100px;
+			
+			}
+	#contactback{
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:36px;
+			background-color:#CCCCCC;
+			border-radius:0.2em;
+			cellpadding:2px;
+			height:50px;
+			width:100px;
+			cursor:pointer;
+			}
